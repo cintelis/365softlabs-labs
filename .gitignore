@@ -1,0 +1,8 @@
+node_modules/
+out/
+.next/
+_pagefind/
+.DS_Store
+Thumbs.db
+.env
+.env.local

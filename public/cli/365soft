@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+echo "365soft CLI placeholder binary/script"
+echo "Replace this file with your real CLI build artifact."
